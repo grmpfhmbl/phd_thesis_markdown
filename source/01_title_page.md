@@ -24,8 +24,7 @@ and add the centred logo
         \vspace{1.5cm}
 
         \normalsize
-        A thesis presented for the degree of\\
-        Doctor of Philosophy
+        Kleiner Test
         
         \vfill
         
